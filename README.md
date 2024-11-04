@@ -12,8 +12,14 @@ In order to access the app make sure to
 
 ### `cd academix`
 
-then to run the app do
 
+Run backend with:
+
+### `cd backend`
+### `npm start`
+
+Run frontend with:
+### `cd spotifyfall24`
 ### `npm run dev`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
